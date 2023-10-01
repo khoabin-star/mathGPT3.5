@@ -11,7 +11,7 @@ from fractions import Fraction
 from decimal import Decimal, getcontext
 
 # Set up your OpenAI API credentials
-openai.api_key = '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'
+openai.api_key = 'API_KEY'
 
 # Define the function to interact with ChatGPT
 def chat_with_gpt(prompt):
